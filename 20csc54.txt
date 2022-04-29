@@ -1,0 +1,5 @@
+> View(Banana_Green_2022)
+> mean(Banana_Green_2022$modal_price)
+[1] 2463.556
+> var(Banana_Green_2022$modal_price)
+[1] 2362519
